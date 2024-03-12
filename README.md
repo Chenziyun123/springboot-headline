@@ -20,6 +20,7 @@
 - Pinia用于存储用户的数据
 - LocalStorage作为用户校验token的存储手段
 - Element-Plus提供组件
+
 后端技术栈：
 - JAVA作为开发语言,版本为JDK17
 - Tomcat作为服务容器,版本为10.1.7
